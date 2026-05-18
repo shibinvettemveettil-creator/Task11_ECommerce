@@ -8,6 +8,7 @@ public class Teask11ECommerceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Teask11ECommerceApplication.class, args);
+		System.out.println("Testing...");
 	}
 
 }
